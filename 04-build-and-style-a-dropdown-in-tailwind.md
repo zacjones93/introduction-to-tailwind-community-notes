@@ -1,6 +1,4 @@
-## 4. Build and Style a Dropdown in Tailwind
-
-[https://egghead.io/playlists/build-and-style-a-dropdown-in-tailwind-7f34fead](https://egghead.io/playlists/build-and-style-a-dropdown-in-tailwind-7f34fead)
+## 4. [Build and Style a Dropdown in Tailwind](https://egghead.io/playlists/build-and-style-a-dropdown-in-tailwind-7f34fead)
 
  **Playlist** **Description**
 

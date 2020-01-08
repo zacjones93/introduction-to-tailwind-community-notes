@@ -1,6 +1,4 @@
-## 1. Introduction to Tailwind and the Utility first workflow
-
-[https://egghead.io/playlists/introduction-to-tailwind-and-the-utility-first-workflow-0b697b10](https://egghead.io/playlists/introduction-to-tailwind-and-the-utility-first-workflow-0b697b10/edit)
+## 1. [Introduction to Tailwind and the Utility first workflow](https://egghead.io/playlists/introduction-to-tailwind-and-the-utility-first-workflow-0b697b10/edit)
 
 ---
 

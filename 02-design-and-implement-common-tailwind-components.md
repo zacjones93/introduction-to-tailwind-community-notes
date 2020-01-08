@@ -1,6 +1,4 @@
-## 2. Design and Implement Common Tailwind Components
-
-[https://egghead.io/playlists/design-and-implement-common-tailwind-components-8fbb9b19](https://egghead.io/playlists/design-and-implement-common-tailwind-components-8fbb9b19)
+## 2. [Design and Implement Common Tailwind Components](https://egghead.io/playlists/design-and-implement-common-tailwind-components-8fbb9b19)
 
  **Playlist** **Description**
 

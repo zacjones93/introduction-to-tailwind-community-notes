@@ -1,6 +1,4 @@
-# 3. Build a Responsive Navbar with Tailwind
-
-[https://egghead.io/playlists/build-a-responsive-navbar-with-tailwind-4d328a35](https://egghead.io/playlists/build-a-responsive-navbar-with-tailwind-4d328a35) 
+# 3. [Build a Responsive Navbar with Tailwind](https://egghead.io/playlists/build-a-responsive-navbar-with-tailwind-4d328a35) 
 
  **Playlist** **Description**
 

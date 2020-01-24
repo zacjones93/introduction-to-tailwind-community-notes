@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://egghead.io/instructors/adam-wathan">Introduction to Tailwind CSS Community Notes</a></h1>
+<h1 align="center"><a href="https://egghead.io/instructors/adam-wathan">Introduction to Tailwind CSS Notes</a></h1>
 
 <p align="center"><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/215/thumb/tailwind.png" width="200"></p>
 
